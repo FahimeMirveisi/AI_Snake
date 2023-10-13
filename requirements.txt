@@ -2,3 +2,5 @@ numpy
 pandas
 tensorflow
 arcade
+matplotlib
+sklearn

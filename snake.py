@@ -11,7 +11,7 @@ class Snake(arcade.Sprite):
         self.center_y = SCREEN_HEIGHT // 2
         self.color = arcade.color.BLACK
         self.change_x = 1
-        self.change_y = 0
+        self.change_y = 1
         self.speed = 8
         self.score = 0
         self.body = []
@@ -28,6 +28,7 @@ class Snake(arcade.Sprite):
             self.body.pop(0)
         self.center_x += self.change_x * self.speed
         self.center_y += self.change_y * self.speed
+
 
     def eat(self, apple):
         del apple
