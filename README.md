@@ -20,7 +20,8 @@ pip install -r requirements.txt
 python generate_dataset.py
 ```
 Press 'Q' on keyboard to stop collecting data and save collected dataset.
-2. Train neural network
+
+2.Train neural network
 ```
 python train.py
 ```
