@@ -31,7 +31,7 @@ python main_ml.py
 
 ## Loss and accuracy
 
-![MY Snake](assets/test and train loss and accuracyy.png)
-![MY Snake](assets/plot of test and train accuracy.png)
+![MY Snake](https://github.com/FahimeMirveisi/AI_Snake/blob/main/assets/test%20and%20train%20loss%20and%20accuracyy.png)
+![MY Snake](https://github.com/FahimeMirveisi/AI_Snake/blob/main/assets/plot%20of%20test%20and%20train%20accuracy.png)
 
 
