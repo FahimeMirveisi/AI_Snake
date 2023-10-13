@@ -1,7 +1,7 @@
 # AI_Snake (Implemented with ML)
 Classic snake game with machine learning
 
-![MY Snake](assets/my game board.png)
+![MY Snake](https://github.com/FahimeMirveisi/AI_Snake/blob/main/assets/my%20game%20board.png)
 ## Description
 
 This is a project to train a neural network to play the game snake.
@@ -34,6 +34,4 @@ python main_ml.py
 ![MY Snake](assets/test and train loss and accuracyy.png)
 ![MY Snake](assets/plot of test and train accuracy.png)
 
-yek jadval bezaram va accuracy train va accuracy test ro benvisam
-loss train, loss test
 
